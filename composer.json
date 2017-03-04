@@ -1,0 +1,19 @@
+{
+    "name": "geoffrey/test-lib_main",
+    "authors": [
+        {
+            "name": "Geoffrey Laurent",
+            "email": "geoffrey.laurent@rueducommerce.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+	"kardagan/testlibconf":"dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/kardagan/testLib_config"
+        }
+    ]
+}
